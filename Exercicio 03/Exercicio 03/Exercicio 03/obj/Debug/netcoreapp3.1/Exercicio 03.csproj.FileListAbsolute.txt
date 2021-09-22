@@ -1,0 +1,14 @@
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.exe
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.deps.json
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.runtimeconfig.json
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.runtimeconfig.dev.json
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.dll
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.pdb
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.csproj.AssemblyReference.cache
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.AssemblyInfoInputs.cache
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.AssemblyInfo.cs
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.dll
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.pdb
+C:\Users\erikl\Desktop\Etec\TP\Exercicio 03\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.genruntimeconfig.cache

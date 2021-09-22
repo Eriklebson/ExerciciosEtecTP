@@ -1,0 +1,28 @@
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.exe
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.deps.json
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.runtimeconfig.json
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.runtimeconfig.dev.json
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.dll
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.pdb
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.csproj.AssemblyReference.cache
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.AssemblyInfoInputs.cache
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.AssemblyInfo.cs
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.dll
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.pdb
+C:\Users\erikl\source\repos\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.genruntimeconfig.cache
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.exe
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.deps.json
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.runtimeconfig.json
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.runtimeconfig.dev.json
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.dll
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\bin\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.pdb
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.csproj.AssemblyReference.cache
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.AssemblyInfoInputs.cache
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.AssemblyInfo.cs
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.dll
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.pdb
+C:\Users\erikl\Desktop\Etec\TP\Atividade de TP\Informaçoes_Do_Usuario\Informaçoes_Do_Usuario\obj\Debug\netcoreapp3.1\Informaçoes_Do_Usuario.genruntimeconfig.cache
